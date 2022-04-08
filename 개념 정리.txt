@@ -1,0 +1,24 @@
+기본형: 실제 값 저장
+(논리boolean[1], 문자char[2], 정수byte[1]/short[2]/int[4]/long[8],
+실수형float[4]/double[8])
+
+참조형: 주소 저장
+=> 참조형 변수 간 연산 불가능
+
+참조형 변수를 추가 = 새로운 클래스 작성
+
+상수: 다른 값으로 변경 불가능한 공간
+final int MAX_SPEED = 10;
+<-> 기존 상수는 리터럴로 명명
+리터럴의 접미사: L for long, f for float (d for double)
+
+덧셈 연산자 string 형변환 주의
+
+> 기본형(실제 값을 저장하는 공간)
+1. 논리형 boolean, 기본값은 false
+2. 문자형 char 2byte
+3. 정수형 byte 1byte/ short 2byte/ int 4byte/ long 8byte
+
+> 형변환
+(int) 피연산자
+캐스팅
