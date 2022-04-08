@@ -13,7 +13,7 @@ class VarEx2
 
 		System.out.println(name);
 
-		// to print in other 형식
+		// 다른 형식으로 출력
 		System.out.printf("boolean type print: %b%n", age);
 
 
