@@ -1,0 +1,5 @@
+
+0. 개발 환경 조정
+Editplus => Eclipse
+
+1. 연산자 operator
