@@ -12,3 +12,28 @@
 가능한 많은 관계를 맺도록 설정한다
 
 조상 클래스에 정의된 메서드와 같은 메서드를 자손 클래스에 정의하는 것을 오버라이딩이라고 한다.
+
+
+3. package와 import
+3.1 package
+패키지란 클래스의 묶음
+클래스의 full name은 패키지명을 포함한 것이다
+String 클래스의 패키지명을 포함한 이름: java.lang.String이다
+java.lang이라는 패키지에 속한 String클래스인것
+
+3.2 패키지의 선언
+
+4. 제어자 modifier
+4.1 제어자란?
+제어자는 클래스, 변수, 또는 메서드의 선언부에 함께 사용되며, 부가적인 의미를 부여한다
+접근 제어자: public, protected, default, private
+그 외: static, final, abstract, native, transient, synchronized, volatile, strictfp
+
+4.2 static
+
+4.5 접근 제어자
+해당 멤버 또는 클래스를 외부에서 접근하지 못하도록 제한하는 역할을 한다
+
+
+
+
